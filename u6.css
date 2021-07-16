@@ -1,0 +1,6 @@
+div{background-color: blanchedalmond; color: darkgreen; }
+body{background-image: url(images/ocean.jpg); background-repeat: no-repeat; background-size: cover}
+#wrapper{width: 60%; margin: auto; margin-top: 30px;}
+ul{list-style-image: url(images/check.jpg);}
+.specialborder{ border-image-slice: 15 15 16 11;border-image-width: 42px 42px 42px 42px; border-image-outset: 30px 30px 30px 30px; border-image-repeat: round round; border-image-source: url("images/box.jpg"); border-style: solid;}
+.kitten1{height: 300px; margin: auto}
