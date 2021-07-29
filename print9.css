@@ -1,4 +1,6 @@
 #nav{display:none}
+#sidebar #footer{display: none;}
+.news{display: none;}
 #header #container{font-size: 1.25em; color: black; background-color: white}
 img{display: none}
 a{text-decoration: underline; color:black}
