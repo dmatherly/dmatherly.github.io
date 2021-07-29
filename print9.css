@@ -1,0 +1,5 @@
+#nav{display:none}
+#header #container{font-size: 1.25em; color: black; background-color: white}
+img{display: none}
+a{text-decoration: underline; color:black}
+a[href]:after{content: '(' attr(href) ')';}
