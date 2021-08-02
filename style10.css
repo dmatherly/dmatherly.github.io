@@ -1,0 +1,18 @@
+table.t1, table.t2, table.t3{
+  margin-left: auto;
+  margin-right: auto;
+}
+table.t1 tr,table.t1 td{  
+  border: 2px solid black;
+  padding: 0px 20px 0px 5px;
+}
+table.t2 th, table.t2 td{
+  border: 2px solid black;
+  padding: 10px 20px 10px 5px;
+}
+table.t3{
+  padding: 10px 20px 10px 5px;
+}
+table.t3 tr:nth-child(even) {
+  background-color: #f2f2f2;
+  }
